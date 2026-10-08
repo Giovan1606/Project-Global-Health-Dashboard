@@ -57,5 +57,5 @@ The dashboard also includes Year and Disease Category filters, tooltips, and dri
 
 ## Project Files
 
-- [View Project Documentation](Global-Health-Statistics-Documentation.pdf)
+- [View Project Documentation](Documentation%20Global%20Health.pdf)
 - [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjA5ZTEyMGMtMDM5ZS00MTZlLWFkYmQtNjgzODQwZjNhOTNhIiwidCI6IjM0ODViOTYzLTgyYmEtNGE2Zi04MTBmLWI1Y2MyMjZmZjg5OCIsImMiOjEwfQ%3D%3D)
